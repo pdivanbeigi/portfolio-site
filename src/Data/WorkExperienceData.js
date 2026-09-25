@@ -1,4 +1,3 @@
-import machq from '../media/machq.png';
 import mst from '../media/MissouriS&T_Horizontal_Miner_RGB.png';
 import hunter from '../media/hunter-logo-white-red.png'
 import intelag from '../media/intelag.png'
