@@ -35,7 +35,7 @@ export default function DevCard() {
                         loop: true,
                     }}/>
             </div>
-            <a href="https://github.com/persianprince03" className="icon"><FontAwesomeIcon icon={faGithub } size={"2xl"}/></a>
+            <a href="https://github.com/pdivanbeigi" className="icon"><FontAwesomeIcon icon={faGithub } size={"2xl"}/></a>
             <a href="https://www.linkedin.com/in/parsa-divanbeigi/" className='icon'><FontAwesomeIcon icon={faLinkedin}size={"2xl"}/></a>
         {/*    Add LinkedIn and Github*/}
         </div>
