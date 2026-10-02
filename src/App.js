@@ -17,6 +17,7 @@ function App() {
           <header className="App-header">
             <div className="landing">
               <DevCard/>
+                <ContactInfo/>
             </div>
 
             <Education/>
@@ -36,7 +37,7 @@ function App() {
             <Hobbies/>
 
 
-            <ContactInfo/>
+
           </header>
         </div>
   );
