@@ -3,16 +3,15 @@ import miners from '../media/PRIMARY_BANNER_FC.png'
 export const ExtraCurricularData = [
     {
         org: 'Lambda Chi Alpha',
-        position: "A\u0394 1565 - St. Patrick's Competition Games Chairman - Network Administrator and Solutions Developer",
+        position: "A\u0394 1565 - Recruitment Chairman, St. Patrick's Competition Games Chairman - Network Administrator and Solutions Developer",
         image:lca,
         bullets: [
+            "Increased chapter membership by ~30%, contributing to a projected $819K four-year revenue lift. ",
+            "Automated outreach using Python, Apple APIs, and Power Automate, contacting 1,000+ prospective students. ",
+            "Compiled a list of all Missouri S&T freshman Students who were in university dorms by combining publicly available data from Missouri S&T using Pandas and Beautiful Soup 4 to parse XML data to obtain useful marketing data ",
+            "Implemented a simple CRM to track 100+ leads and train 60 members on structured outreach.", 
             "St. Patrick's Competition Games Chairman",
-            "Network Administrator and Solutions Developer",
-            "Increased chapter membership by 30% through targeted recruiting, projecting $819K in additional cash flow over 4 years.",
-            "Developed Python scripts using Apple APIs to conduct advertisement campaigns to over 1000 incoming students across the nation through Microsoft and Apple applications.",
-            "Developed a CRM application using Notion to track potential new members.",
-            "Educated 60 members on sales strategies, driving a 40% increase in recruitment engagement."
-
+            "Network Administrator and Solutions Developer"
         ]
     },
     {
