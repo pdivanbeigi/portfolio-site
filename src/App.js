@@ -9,7 +9,7 @@ import ExtraCurricular from "./ExtraCurricular";
 import WorkExperience from "./WorkExperience";
 import ContactInfo from "./ContactInfo";
 import Education from "./Education";
-import resume from './media/ATS_Parsa.docs'
+import resume from './media/ATS_Parsa.docx'
 
 function App() {
   return (
