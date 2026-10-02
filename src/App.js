@@ -21,11 +21,11 @@ function App() {
 
             <Education/>
             <a href={resume} download='ParsaDivanbeigiResume' className='download'>Download Resume</a>
+            <WorkExperience/>
 
             <FLProjects/>
             <div className="we">
               <ExtraCurricular/>
-              <WorkExperience/>
             </div>
             <div className="skillsDiv">
               <Skills/>
